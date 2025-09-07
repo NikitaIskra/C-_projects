@@ -1,0 +1,3 @@
+﻿  011.cpp
+C:\Users\Нікіта\Desktop\011\011.cpp(86,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  011.vcxproj -> C:\Users\Нікіта\Desktop\011\x64\Debug\011.exe
