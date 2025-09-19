@@ -1,0 +1,3 @@
+Hello, file!
+This is a new record in file.
+ÿ
