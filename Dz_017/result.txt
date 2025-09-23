@@ -1,0 +1,8 @@
+Digits: 0
+Vowels: 4
+Consonats: 5
+Length: 13
+Digits: 5
+Vowels: 9
+Consonats: 11
+Length: 33
