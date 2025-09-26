@@ -1,0 +1,11 @@
+﻿  Dz_018.cpp
+C:\Users\Нікіта\Desktop\Dz_018\Dz_018.cpp(116,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'FILE *'
+C:\Users\Нікіта\Desktop\Dz_018\Dz_018.cpp(116,10): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'FILE *'
+C:\Users\Нікіта\Desktop\Dz_018\Dz_018.cpp(116,10): warning C4473: 'printf' : not enough arguments passed for format string
+      C:\Users\Нікіта\Desktop\Dz_018\Dz_018.cpp(116,10):
+      placeholders and their parameters expect 4 variadic arguments, but 1 were provided
+      C:\Users\Нікіта\Desktop\Dz_018\Dz_018.cpp(116,10):
+      the missing variadic argument 2 is required by format string '%s'
+  
+C:\Users\Нікіта\Desktop\Dz_018\Dz_018.cpp(17,14): warning C4101: 'emp': unreferenced local variable
+C:\Users\Нікіта\Desktop\Dz_018\Dz_018.cpp(112,1): error C4700: uninitialized local variable 'r' used
