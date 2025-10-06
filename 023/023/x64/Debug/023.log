@@ -1,0 +1,5 @@
+﻿  023.cpp
+023.obj : error LNK2001: unresolved external symbol "private: static double Area::width" (?width@Area@@0NA)
+023.obj : error LNK2001: unresolved external symbol "private: static double Area::height" (?height@Area@@0NA)
+023.obj : error LNK2001: unresolved external symbol "private: static double Area::length" (?length@Area@@0NA)
+C:\Users\Нікіта\Desktop\023\x64\Debug\023.exe : fatal error LNK1120: 3 unresolved externals
