@@ -1,0 +1,10 @@
+﻿  029.cpp
+C:\Users\Нікіта\Desktop\029\029.cpp(59,54): error C2760: syntax error: ';' was unexpected here; expected '{'
+      C:\Users\Нікіта\Desktop\029\029.cpp(59,54):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Нікіта\Desktop\029\029.cpp(54,7):
+          while compiling class template 'LinkedList'
+          C:\Users\Нікіта\Desktop\029\029.cpp(56,12):
+          while compiling class 'LinkedList<T>::Node'
+  
+C:\Users\Нікіта\Desktop\029\029.cpp(59,1): error C1903: unable to recover from previous error(s); stopping compilation
