@@ -1,0 +1,3 @@
+﻿  Dz_028.cpp
+C:\Users\Нікіта\Desktop\Dz_028\Dz_028.cpp(104,1): warning C4715: 'Matrix::operator()': not all control paths return a value
+  Dz_028.vcxproj -> C:\Users\Нікіта\Desktop\Dz_028\x64\Debug\Dz_028.exe
